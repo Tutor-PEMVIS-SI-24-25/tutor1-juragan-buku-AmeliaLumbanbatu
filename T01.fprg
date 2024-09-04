@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="percobaan flowgorithm"/>
+        <attribute name="authors" value="ACER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:09:51 PM"/>
+        <attribute name="created" value="QUNFUjtMQVBUT1AtSVJTVEE1RVQ7MjAyNC0wOS0wNDswODoxMjowNyBQTTsyNjY4"/>
+        <attribute name="edited" value="QUNFUjtMQVBUT1AtSVJTVEE1RVQ7MjAyNC0wOS0wNDswOTowOTo1MSBQTTs0OzI3ODU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="nama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
